@@ -1,0 +1,1 @@
+# cloudwatch-agent-setup-in-instance
